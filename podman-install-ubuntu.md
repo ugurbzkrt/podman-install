@@ -7,7 +7,7 @@ sudo curl -L "https://download.opensuse.org/repositories/devel:/kubic:/libcontai
 sudo apt update
 sudo apt install -y podman
 ```
-## compose
+## compose
 ```
 sudo apt install -y python3-pip
 
